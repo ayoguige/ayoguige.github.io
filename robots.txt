@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ayoguige.github.io/bdu/sitemap_index.txt
+Sitemap: https://ayoguige.github.io/bpA/sitemap_index.txt
+Sitemap: https://ayoguige.github.io/fSe/sitemap_index.txt
+Sitemap: https://ayoguige.github.io/itT/sitemap_index.txt
